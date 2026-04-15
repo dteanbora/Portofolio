@@ -15,17 +15,15 @@ Setiap halaman dirancang dengan mempertimbangkan konsistensi visual, hierarki in
 ## Design Preview
 
 ### Home Page
-![Home Page](images/home.png)
+images/home.png
 Halaman utama menampilkan identitas restoran, suasana, serta highlight menu yang direkomendasikan.
 
 ### Menu Page
-![Menu Page](images/menu.png)
-
+images/menu.png
 Halaman menu menyajikan daftar produk yang dikategorikan untuk memudahkan navigasi pengguna, lengkap dengan deskripsi dan harga.
 
 ### Contact Page
-![Contact Page](images/contact.png)
-
+images/contact.png
 Halaman kontak menyediakan informasi lokasi, jam operasional, serta form untuk menghubungi pihak restoran.
 
 ## Design Objectives
@@ -39,6 +37,11 @@ Halaman kontak menyediakan informasi lokasi, jam operasional, serta form untuk m
 
 - Figma
 
+## Design File
+
+Figma:
+https://www.figma.com/design/Iv86CEZVv24JXk9m6Z9XqU/Kopi-Senja?node-id=0-1&t=nMdOzvJRVrIjaVBg-1
+
 ## Notes
 
 Proyek ini merupakan desain antarmuka (UI/UX) dan belum mencakup tahap implementasi ke dalam kode (frontend/backend).
@@ -46,3 +49,4 @@ Proyek ini merupakan desain antarmuka (UI/UX) dan belum mencakup tahap implement
 ## Author
 
 - Nama: Debora Tendean
+- 
