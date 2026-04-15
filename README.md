@@ -1,4 +1,4 @@
-#################### design ui 1 = Kopi Senja – UI/UX Design (Restaurant Website)
+### design ui 1 = Kopi Senja – UI/UX Design (Restaurant Website)
 
 Kopi Senja merupakan proyek perancangan antarmuka (UI/UX) untuk website restoran yang berfokus pada penyajian menu, suasana, dan informasi kontak secara visual dan interaktif.
 Proyek ini dibuat menggunakan Figma sebagai media perancangan, dengan tujuan menghasilkan desain yang modern, estetis, dan mudah digunakan oleh pengguna.
